@@ -1,0 +1,451 @@
+sku,name,set_name,card_number,price,listing_bucket
+B01-C001,Shellder,Fossil,54/62,0.00,bulk
+B01-C002,Houndour,Neo Discovery,39/75,1.91,single_or_1st_ed_group
+B01-C003,Drowzee,Team Rocket,54/82,0.00,bulk
+B01-C004,Graveler,Fossil,37/62,0.00,bulk
+B01-C005,Magnemite,Team Rocket,60/82,0.00,bulk
+B01-C006,Graveler,Fossil,37/62,0.00,bulk
+B01-C007,Magnemite,Base,53/102,0.48,bulk
+B01-C008,Psyduck,Fossil,53/62,1.49,single_or_1st_ed_group
+B01-C009,Magnemite,Base,53/102,0.48,bulk
+B01-C010,Oddish,Jungle,58/64,0.00,bulk
+B01-C011,Metapod,Base,54/102,0.63,bulk
+B01-C012,Golbat,Fossil,34/62,0.00,bulk
+B01-C013,Weedle,Base,69/102,0.40,bulk
+B01-C014,Grimer,Fossil,48/62,0.00,bulk
+B01-C015,Oddish,Jungle,58/64,0.00,bulk
+B01-C016,Parasect,Jungle,41/64,0.00,bulk
+B01-C017,Weepinbell,Jungle,48/64,0.00,bulk
+B01-C018,Arbok,Fossil,31/62,0.00,bulk
+B01-C019,Caterpie,Base,45/102,0.73,bulk
+B01-C020,Meowth,Jungle,56/64,0.00,bulk
+B01-C021,Cubone,Jungle,50/64,0.00,bulk
+B01-C022,Cloyster,Fossil,32/62,0.00,bulk
+B01-C023,Exeggcute,Jungle,52/64,0.00,bulk
+B01-C024,Gloom,Jungle,37/64,0.00,bulk
+B01-C025,Psyduck,Fossil,53/62,1.61,single_or_1st_ed_group
+B01-C026,Horsea,Fossil,49/62,0.00,bulk
+B01-C027,Haunter,Base,29/102,1.18,bulk
+B01-C028,Jynx,Base,31/102,0.69,bulk
+B01-C029,Bulbasaur,Base Set 2,67/130,3.07,small_lot_or_single
+B01-C030,Golduck,Fossil,35/62,0.00,bulk
+B01-C031,Geodude,Fossil,47/62,0.00,bulk
+B01-C032,Weepinbell,Jungle,48/64,1.49,single_or_1st_ed_group
+B01-C033,Oddish,Jungle,58/64,0.00,bulk
+B01-C034,Oddish,Jungle,58/64,0.00,bulk
+B01-C035,Ekans,Fossil,46/62,0.00,bulk
+B01-C036,Cubone,Jungle,50/64,0.00,bulk
+B01-C037,Meowth,Team Rocket,62/82,0.00,bulk
+B01-C038,Caterpie,Base Set 2,68/130,0.50,bulk
+B01-C039,Zubat,Fossil,57/62,0.00,bulk
+B01-C040,Magikarp,Base,35/102,2.70,small_lot_or_single
+B01-C041,Mankey,Team Rocket,61/82,0.00,bulk
+B01-C042,Sandslash,Fossil,41/62,0.00,bulk
+B01-C043,Krabby,Fossil,51/62,0.00,bulk
+B01-C044,Magnemite,Base Set 2,79/130,0.34,bulk
+B01-C045,Paras,Jungle,59/64,0.00,bulk
+B01-C046,Paras,Jungle,59/64,1.49,single_or_1st_ed_group
+B01-C047,Krabby,Fossil,51/62,0.00,bulk
+B01-C048,Kabuto,Fossil,50/62,0.00,bulk
+B01-C049,Bulbasaur,Base,44/102,1.72,bulk
+B01-C050,Drowzee,Base,49/102,0.49,bulk
+B01-C051,Grimer,Fossil,48/62,0.00,bulk
+B01-C052,Nidoran ♀,Jungle,57/64,0.00,bulk
+B01-C053,Squirtle,Base,63/102,7.18,single
+B01-C054,Porygon,Base,39/102,1.85,bulk
+B01-C055,Koffing,Base,51/102,0.55,bulk
+B01-C056,Horsea,Fossil,49/62,0.00,bulk
+B01-C057,Magmar,Fossil,39/62,1.49,single_or_1st_ed_group
+B01-C058,Machop,Team Rocket,59/82,0.00,bulk
+B01-C059,Caterpie,Base,45/102,0.73,bulk
+B01-C060,Haunter,Base,29/102,1.18,bulk
+B01-C061,Staryu,Base,65/102,0.43,bulk
+B01-C062,Ponyta,Team Rocket,64/82,0.00,bulk
+B01-C063,Doduo,Base,48/102,0.98,bulk
+B01-C064,Grimer,Fossil,48/62,0.00,bulk
+B01-C065,Weepinbell,Jungle,48/64,0.00,bulk
+B01-C066,Eevee,Jungle,51/64,0.00,bulk
+B01-C067,Paras,Jungle,59/64,0.00,bulk
+B01-C068,Stantler,Neo Revelation,38/64,0.00,bulk
+B01-C069,Horsea,Fossil,49/62,0.00,bulk
+B01-C070,Slowpoke,Fossil,55/62,0.00,bulk
+B01-C071,Exeggcute,Jungle,52/64,0.00,bulk
+B01-C072,Ekans,Fossil,46/62,0.00,bulk
+B01-C073,Krabby,Fossil,51/62,0.00,bulk
+B01-C074,Jigglypuff,Base Set 2,77/130,0.53,bulk
+B01-C075,Koffing,Base,51/102,0.55,bulk
+B01-C076,Horsea,Fossil,49/62,0.00,bulk
+B01-C077,Spearow,Jungle,62/64,0.00,bulk
+B01-C078,Dratini,Base,26/102,1.68,bulk
+B01-C079,Pidgey,Base,57/102,0.86,bulk
+B01-C080,Sandslash,Fossil,41/62,0.00,bulk
+B01-C081,Koffing,Base,51/102,0.55,bulk
+B01-C082,Golduck,Fossil,35/62,0.00,bulk
+B01-C083,Golem,Fossil,36/62,0.00,bulk
+B01-C084,Shellder,Fossil,54/62,0.00,bulk
+B01-C085,Porygon,Team Rocket,48/82,0.00,bulk
+B01-C086,Zubat,Team Rocket,70/82,0.00,bulk
+B01-C087,Graveler,Fossil,37/62,0.00,bulk
+B01-C088,Ekans,Team Rocket,56/82,0.00,bulk
+B01-C089,Paras,Jungle,59/64,0.00,bulk
+B01-C090,Poliwag,Base,59/102,0.45,bulk
+B01-C091,Magmar,Fossil,39/62,0.00,bulk
+B01-C092,Arbok,Fossil,31/62,0.00,bulk
+B01-C093,Nidorino,Base,37/102,1.90,bulk
+B01-C094,Cubone,Base Set 2,70/130,0.73,bulk
+B01-C095,Sandshrew,Base Set 2,91/130,0.43,bulk
+B01-C096,Nidoran ♂,Base,55/102,0.52,bulk
+B01-C097,Cloyster,Fossil,32/62,0.00,bulk
+B01-C098,Koffing,Team Rocket,58/82,0.00,bulk
+B01-C099,Oddish,Jungle,58/64,0.00,bulk
+B01-C100,Geodude,Fossil,47/62,0.00,bulk
+B01-C101,Dark Dugtrio,Team Rocket,23/82,2.50,bulk_or_lot
+B01-C102,Koffing,Base,51/102,0.55,bulk
+B01-C103,Abra,Team Rocket,49/82,0.00,bulk
+B01-C104,Rhyhorn,Jungle,61/64,0.00,bulk
+B01-C105,Gastly,Base,50/102,0.66,bulk
+B01-C106,Tangela,Base,66/102,0.82,bulk
+B01-C107,Poliwag,Base,59/102,0.45,bulk
+B01-C108,Exeggcute,Jungle,52/64,0.00,bulk
+B01-C109,Dark Primeape,Team Rocket,43/82,0.00,bulk
+B01-C110,Exeggcute,Jungle,52/64,1.49,single_or_1st_ed_group
+B01-C111,Psyduck,Fossil,53/62,0.00,bulk
+B01-C112,Poliwag,Base,59/102,0.45,bulk
+B01-C113,Cubone,Jungle,50/64,0.00,bulk
+B01-C114,Poliwag,Base Set 2,88/130,0.36,bulk
+B01-C115,Magikarp,Team Rocket,47/82,0.00,bulk
+B01-C116,Sandslash,Fossil,41/62,0.00,bulk
+B01-C117,Mankey,Jungle,55/64,0.00,bulk
+B01-C118,Porygon,Team Rocket,48/82,0.00,bulk
+B01-C119,Spearow,Jungle,62/64,0.00,bulk
+B01-C120,Lickitung,Jungle,38/64,0.00,bulk
+B01-C121,Golem,Fossil,36/62,0.00,bulk
+B01-C122,Grimer,Fossil,48/62,0.00,bulk
+B01-C123,Pidgeot,Jungle,24/64,2.59,bulk_or_lot
+B01-C124,Staryu,Base,65/102,0.43,bulk
+B01-C125,Nidorina,Jungle,40/64,0.00,bulk
+B01-C126,Nidoran♀,Jungle,57/64,0.00,bulk
+B01-C127,Horsea,Fossil,49/62,0.00,bulk
+B01-C128,Sandslash,Fossil,41/62,0.00,bulk
+B01-C129,Rhydon,Jungle,45/64,0.00,bulk
+B01-C130,Shellder,Fossil,54/62,0.00,bulk
+B01-C131,Exeggcute,Jungle,52/64,0.00,bulk
+B01-C132,Sandshrew,Base,62/102,0.62,bulk
+B01-C133,Paras,Jungle,59/64,0.00,bulk
+B01-C134,Slowpoke,Fossil,55/62,0.00,bulk
+B01-C135,Machoke,Base Set 2,49/130,0.50,bulk
+B01-C136,Poliwag,Base,59/102,0.45,bulk
+B01-C137,Kabuto,Fossil,50/62,0.00,bulk
+B01-C138,Cyndaquil,Neo Genesis,57/111,0.00,bulk
+B01-C139,Paras,Jungle,59/64,0.00,bulk
+B01-C140,Dugtrio,HS—Triumphant,19/102,1.32,bulk_or_lot
+B01-C141,Rattata,Team Rocket,66/82,0.00,bulk
+B01-C142,Golbat,Fossil,34/62,0.00,bulk
+B01-C143,Magikarp,Team Rocket,47/82,0.00,bulk
+B01-C144,Dark Muk,Team Rocket,41/82,0.00,bulk
+B01-C145,Dratini,Team Rocket,53/82,0.00,bulk
+B01-C146,Shellder,Fossil,54/62,0.00,bulk
+B01-C147,Abra,Team Rocket,49/82,0.00,bulk
+B01-C148,Magikarp,Base,35/102,2.70,small_lot_or_single
+B01-C149,Porygon,Team Rocket,48/82,0.00,bulk
+B01-C150,Drowzee,Team Rocket,54/82,0.00,bulk
+B01-C151,Psyduck,Fossil,53/62,0.00,bulk
+B01-C152,Zubat,Team Rocket,70/82,0.00,bulk
+B01-C153,Psyduck,Team Rocket,65/82,0.00,bulk
+B01-C154,Jynx,Base,31/102,0.00,bulk
+B01-C155,Goldeen,Jungle,53/64,0.00,bulk
+B01-C156,Zubat,Fossil,57/62,0.00,bulk
+B01-C157,Grimer,Fossil,48/62,0.00,bulk
+B01-C158,Eevee,Jungle,51/64,0.00,bulk
+B01-C159,Poliwag,Base,59/102,0.00,bulk
+B01-C160,Diglett,Team Rocket,52/82,0.00,bulk
+B01-C161,Nidoran ♀,Jungle,57/64,0.00,bulk
+B01-C162,Ekans,Team Rocket,56/82,0.00,bulk
+B01-C163,Geodude,Fossil,47/62,1.49,single_or_1st_ed_group
+B01-C164,Diglett,Base,47/102,0.74,bulk
+B01-C165,Dratini,Team Rocket,53/82,0.00,bulk
+B01-C166,Onix,Base,56/102,0.77,bulk
+B01-C167,Rhyhorn,Jungle,61/64,0.00,bulk
+B01-C168,Magmar,Fossil,39/62,0.00,bulk
+B01-C169,Sandslash,Fossil,41/62,0.00,bulk
+B01-C170,Sandshrew,Base,62/102,0.62,bulk
+B01-C171,Exeggcute,Jungle,52/64,0.00,bulk
+B01-C172,Rattata,Base,61/102,0.51,bulk
+B01-C173,Nidoran ♀,Jungle,57/64,0.00,bulk
+B01-C174,Ekans,Fossil,46/62,1.49,single_or_1st_ed_group
+B01-C175,Parasect,Jungle,41/64,0.00,bulk
+B01-C176,Magmar,Fossil,39/62,0.00,bulk
+B01-C177,Bellsprout,Jungle,49/64,0.00,bulk
+B01-C178,Diglett,Team Rocket,52/82,0.00,bulk
+B01-C179,Meowth,Jungle,56/64,0.00,bulk
+B01-C180,Machop,Team Rocket,59/82,0.00,bulk
+B01-C181,Gastly,Fossil,33/62,0.00,bulk
+B01-C182,Exeggcute,Jungle,52/64,0.00,bulk
+B01-C183,Nidorino,Base,37/102,1.90,bulk
+B01-C184,Grimer,Fossil,48/62,0.00,bulk
+B01-C185,Marowak,Jungle,39/64,0.00,bulk
+B01-C186,Meowth,Jungle,56/64,0.00,bulk
+B01-C187,Cloyster,Fossil,32/62,1.49,single_or_1st_ed_group
+B01-C188,Tentacool,Fossil,56/62,0.00,bulk
+B01-C189,Meowth,Jungle,56/64,0.00,bulk
+B01-C190,Zubat,Fossil,57/62,0.00,bulk
+B01-C191,Onix,Base,56/102,0.77,bulk
+B01-C192,Grimer,Fossil,48/62,0.00,bulk
+B01-C193,Nidorino,Base,37/102,1.90,bulk
+B01-C194,Electabuzz,Base,20/102,2.10,bulk_or_lot
+B01-C195,Kabuto,Fossil,50/62,0.00,bulk
+B01-C196,Eevee,Jungle,51/64,0.00,bulk
+B01-C197,Diglett,Base Set 2,71/130,0.30,bulk
+B01-C198,Goldeen,Jungle,53/64,0.00,bulk
+B01-C199,Energy Search,Fossil,59/62,0.00,bulk
+B01-C200,Professor Oak,Base,88/102,0.90,bulk
+B01-C201,Mr. Fuji,Fossil,58/62,0.00,bulk
+B01-C202,Energy Search,Fossil,59/62,0.00,bulk
+B01-C203,Defender,Base,80/102,1.02,bulk
+B01-C204,Recycle,Fossil,61/62,0.00,bulk
+B01-C205,Nidoran♀,Jungle,57/64,0.00,bulk
+B01-C206,Goldeen,Jungle,53/64,0.00,bulk
+B01-C207,Grimer,Fossil,48/62,0.00,bulk
+B01-C208,Impostor Professor Oak,Base,73/102,1.50,bulk_or_lot
+B01-C209,Potion,Base,94/102,0.22,bulk
+B01-C210,Rocket's Sneak Attack,Team Rocket,72/82,4.30,bulk_or_lot
+B01-C211,Potion,Base,94/102,0.22,bulk
+B01-C212,Gust of Wind,Base,93/102,0.24,bulk
+B01-C213,Bill,Base,91/102,0.27,bulk
+B01-C214,Energy Removal,Base,92/102,0.35,bulk
+B01-C215,Potion,Base,94/102,0.22,bulk
+B01-C216,Gust of Wind,Base,93/102,0.24,bulk
+B01-C217,Energy Search,Fossil,59/62,0.00,bulk
+B01-C218,Potion,Base,94/102,0.22,bulk
+B01-C219,Potion,Base,94/102,0.22,bulk
+B01-C220,Bill,Base Set 2,118/130,0.19,bulk
+B01-C221,Gust of Wind,Base,93/102,0.24,bulk
+B01-C222,Bill's Teleporter,Neo Genesis,91/111,0.00,bulk
+B01-C223,Sleep!,Team Rocket,79/82,0.00,bulk
+B01-C224,Gust of Wind,Base,93/102,0.24,bulk
+B01-C225,Pokémon Flute,Base,86/102,2.48,small_lot_or_single
+B02-C001,Abra,Base,43/102,1.06,bulk
+B02-C002,Psyduck,Team Rocket,65/82,0.00,bulk
+B02-C003,Diglett,Team Rocket,52/82,0.00,bulk
+B02-C004,Jigglypuff,Jungle,54/64,0.00,bulk
+B02-C005,Persian,Jungle,42/64,0.00,bulk
+B02-C006,Spearow,Jungle,62/64,0.00,bulk
+B02-C007,Kadabra,Base,32/102,1.29,bulk
+B02-C008,Magikarp,Base,35/102,2.70,small_lot_or_single
+B02-C009,Golem,Fossil,36/62,0.00,bulk
+B02-C010,Exeggutor,Jungle,35/64,0.00,bulk
+B02-C011,Omastar,Fossil,40/62,0.00,bulk
+B02-C012,Kabuto,Fossil,50/62,0.00,bulk
+B02-C013,Beedrill,Base,17/102,16.63,single
+B02-C014,Rhyhorn,Base Set 2,90/130,0.45,bulk
+B02-C015,Dark Charmeleon,Team Rocket,32/82,0.00,bulk
+B02-C016,Parasect,Jungle,41/64,0.00,bulk
+B02-C017,Seadra,Fossil,42/62,0.00,bulk
+B02-C018,Omanyte,Fossil,52/62,0.00,bulk
+B02-C019,Grimer,Fossil,48/62,0.00,bulk
+B02-C020,Bellsprout,Jungle,49/64,0.00,bulk
+B02-C021,Goldeen,Base Set 2,76/130,0.34,bulk
+B02-C022,Abra,Base,43/102,1.06,bulk
+B02-C023,Meowth,Jungle,56/64,0.00,bulk
+B02-C024,Dratini,Team Rocket,53/82,0.00,bulk
+B02-C025,Omanyte,Fossil,52/62,0.00,bulk
+B02-C026,Tangela,Base,66/102,0.82,bulk
+B02-C027,Omanyte,Fossil,52/62,0.00,bulk
+B02-C028,Onix,Base,56/102,0.77,bulk
+B02-C029,Rhyhorn,Jungle,61/64,0.00,bulk
+B02-C030,Golbat,Fossil,34/62,0.00,bulk
+B02-C031,Caterpie,Base,45/102,0.73,bulk
+B02-C032,Cubone,Jungle,50/64,0.00,bulk
+B02-C033,Rattata,Team Rocket,66/82,0.00,bulk
+B02-C034,Koffing,Team Rocket,58/82,0.00,bulk
+B02-C035,Spearow,Jungle,62/64,0.00,bulk
+B02-C036,Voltorb,Team Rocket,69/82,0.00,bulk
+B02-C037,Dratini,Team Rocket,53/82,0.00,bulk
+B02-C038,Sandshrew,Base,62/102,0.62,bulk
+B02-C039,Magikarp,Team Rocket,47/82,0.00,bulk
+B02-C040,Oddish,Jungle,58/64,1.49,single_or_1st_ed_group
+B02-C041,Voltorb,Base,67/102,3.28,small_lot_or_single
+B02-C042,Poliwhirl,Base,38/102,1.18,bulk
+B02-C043,Ivysaur,Base,30/102,2.00,small_lot_or_single
+B02-C044,Charmeleon,Base,24/102,1.55,bulk
+B02-C045,Magikarp,Team Rocket,47/82,0.00,bulk
+B02-C046,Krabby,Fossil,51/62,0.00,bulk
+B02-C047,Sandslash,Fossil,41/62,0.00,bulk
+B02-C048,Primeape,Jungle,43/64,0.00,bulk
+B02-C049,Vileplume,Jungle,31/64,1.46,bulk_or_lot
+B02-C050,Poliwhirl,Base,38/102,1.18,bulk
+B02-C051,Weezing,Fossil,45/62,0.00,bulk
+B02-C052,Charmander,Base,46/102,1.55,bulk
+B02-C053,Poliwhirl,Base,38/102,1.18,bulk
+B02-C054,Grimer,Fossil,48/62,0.00,bulk
+B02-C055,Magnemite,Team Rocket,60/82,0.00,bulk
+B02-C056,Psyduck,Team Rocket,65/82,0.00,bulk
+B02-C057,Krabby,Fossil,51/62,0.00,bulk
+B02-C058,Oddish,Jungle,58/64,0.00,bulk
+B02-C059,Ekans,Fossil,46/62,1.51,single_or_1st_ed_group
+B02-C060,Ivysaur,Base,30/102,2.00,small_lot_or_single
+B02-C061,Venonat,Jungle,63/64,0.00,bulk
+B02-C062,Exeggcute,Jungle,52/64,0.00,bulk
+B02-C063,Eevee,Team Rocket,55/82,0.00,bulk
+B02-C064,Starmie,Base,64/102,0.52,bulk
+B02-C065,Machop,Base,52/102,0.38,bulk
+B02-C066,Tangela,Base,66/102,0.82,bulk
+B02-C067,Machop,Base,52/102,0.38,bulk
+B02-C068,Wigglytuff,Jungle,32/64,1.91,bulk_or_lot
+B02-C069,Mankey,Team Rocket,61/82,0.00,bulk
+B02-C070,Koffing,Base,51/102,0.55,bulk
+B02-C071,Wartortle,Base,42/102,2.76,small_lot_or_single
+B02-C072,Doduo,Base,48/102,0.98,bulk
+B02-C073,Oddish,Jungle,58/64,0.00,bulk
+B02-C074,Doduo,Base,48/102,0.98,bulk
+B02-C075,Shellder,Fossil,54/62,0.00,bulk
+B02-C076,Caterpie,Neo Discovery,53/75,1.49,single_or_1st_ed_group
+B02-C077,Krabby,Fossil,51/62,0.00,bulk
+B02-C078,Tentacool,Fossil,56/62,0.00,bulk
+B02-C079,Dark Electrode,Team Rocket,34/82,0.00,bulk
+B02-C080,Girafarig,Neo Genesis,58/111,0.00,bulk
+B02-C081,Squirtle,Team Rocket,68/82,0.00,bulk
+B02-C082,Jigglypuff,Jungle,54/64,0.00,bulk
+B02-C083,Gastly,Base,50/102,0.66,bulk
+B02-C084,Lapras,Fossil,25/62,2.01,bulk_or_lot
+B02-C085,Dark Muk,Team Rocket,41/82,0.00,bulk
+B02-C086,Ekans,Fossil,46/62,0.00,bulk
+B02-C087,Kakuna,Base,33/102,0.91,bulk
+B02-C088,Magnemite,Base,53/102,0.48,bulk
+B02-C089,Staryu,Base,65/102,0.43,bulk
+B02-C090,Machoke,Base,34/102,0.71,bulk
+B02-C091,Magmar,Base,36/102,1.71,bulk
+B02-C092,Kingler,Fossil,38/62,0.00,bulk
+B02-C093,Zubat,Fossil,57/62,0.00,bulk
+B02-C094,Zubat,Fossil,57/62,0.00,bulk
+B02-C095,Sandshrew,Base,62/102,0.62,bulk
+B02-C096,Geodude,Fossil,47/62,0.00,bulk
+B02-C097,Bellsprout,Jungle,49/64,0.00,bulk
+B02-C098,Dratini,Base,26/102,1.68,bulk
+B02-C099,Goldeen,Jungle,53/64,0.00,bulk
+B02-C100,Geodude,Fossil,47/62,0.00,bulk
+B02-C101,Staryu,Base,65/102,0.43,bulk
+B02-C102,Koffing,Base,51/102,0.55,bulk
+B02-C103,Parasect,Base Set 2,55/130,0.78,bulk
+B02-C104,Cloyster,Fossil,32/62,0.00,bulk
+B02-C105,Omanyte,Fossil,52/62,0.00,bulk
+B02-C106,Sandshrew,Base,62/102,0.62,bulk
+B02-C107,Ekans,Fossil,46/62,0.00,bulk
+B02-C108,Zubat,Fossil,57/62,0.00,bulk
+B02-C109,Spearow,Jungle,62/64,0.00,bulk
+B02-C110,Arbok,Fossil,31/62,0.00,bulk
+B02-C111,Horsea,Fossil,49/62,0.00,bulk
+B02-C112,Porygon,Team Rocket,48/82,0.00,bulk
+B02-C113,Mankey,Jungle,55/64,0.00,bulk
+B02-C114,Cloyster,Fossil,32/62,0.00,bulk
+B02-C115,Gastly,Base,50/102,0.66,bulk
+B02-C116,Drowzee,Base,49/102,0.49,bulk
+B02-C117,Seel,Base,41/102,0.84,bulk
+B02-C118,Paras,Jungle,59/64,0.00,bulk
+B02-C119,Magikarp,Team Rocket,47/82,0.00,bulk
+B02-C120,Slowpoke,Team Rocket,67/82,0.00,bulk
+B02-C121,Psyduck,Fossil,53/62,0.00,bulk
+B02-C122,Krabby,Fossil,51/62,0.00,bulk
+B02-C123,Doduo,Base,48/102,0.98,bulk
+B02-C124,Caterpie,Base,45/102,0.73,bulk
+B02-C125,Nidoran ♀,Jungle,57/64,0.00,bulk
+B02-C126,Mankey,Team Rocket,61/82,0.00,bulk
+B02-C127,Rhyhorn,Jungle,51/64,0.00,bulk
+B02-C128,Mankey,Team Rocket,61/82,0.00,bulk
+B02-C129,Graveler,Fossil,37/62,0.00,bulk
+B02-C130,Drowzee,Team Rocket,54/82,0.00,bulk
+B02-C131,Meowth,Jungle,56/64,0.00,bulk
+B02-C132,Krabby,Fossil,51/62,0.00,bulk
+B02-C133,Dark Kadabra,Team Rocket,39/82,0.00,bulk
+B02-C134,Graveler,Fossil,37/62,0.00,bulk
+B02-C135,Mankey,Jungle,55/64,0.00,bulk
+B02-C136,Arbok,Fossil,31/62,0.00,bulk
+B02-C137,Exeggutor,Jungle,35/64,0.00,bulk
+B02-C138,Tentacool,Fossil,56/62,0.00,bulk
+B02-C139,Ekans,Fossil,46/62,0.00,bulk
+B02-C140,Meowth,Jungle,56/64,0.00,bulk
+B02-C141,Krabby,Fossil,51/62,0.00,bulk
+B02-C142,Dratini,Team Rocket,53/82,0.00,bulk
+B02-C143,Horsea,Fossil,49/62,0.00,bulk
+B02-C144,Rattata,Base,61/102,0.51,bulk
+B02-C145,Seaking,Jungle,46/64,0.00,bulk
+B02-C146,Geodude,Fossil,47/62,0.00,bulk
+B02-C147,Meowth,Team Rocket,62/82,0.00,bulk
+B02-C148,Tentacool,Fossil,56/62,0.00,bulk
+B02-C149,Shellder,Fossil,54/62,0.00,bulk
+B02-C150,Geodude,Fossil,47/62,0.00,bulk
+B02-C151,Dark Primeape,Team Rocket,43/82,0.00,bulk
+B02-C152,Dratini,Team Rocket,53/82,0.00,bulk
+B02-C153,Golem,Fossil,36/62,0.00,bulk
+B02-C154,Geodude,Fossil,47/62,0.00,bulk
+B02-C155,Cloyster,Fossil,32/62,0.00,bulk
+B02-C156,Voltorb,Team Rocket,69/82,0.00,bulk
+B02-C157,Tentacruel,Fossil,44/62,0.00,bulk
+B02-C158,Starmie,Base,64/102,0.52,bulk
+B02-C159,Omastar,Fossil,40/62,0.00,bulk
+B02-C160,Horsea,Fossil,49/62,0.00,bulk
+B02-C161,Cloyster,Fossil,32/62,0.00,bulk
+B02-C162,Psyduck,Fossil,53/62,0.00,bulk
+B02-C163,Machop,Team Rocket,59/82,0.00,bulk
+B02-C164,Eevee,Jungle,51/64,0.00,bulk
+B02-C165,Porygon,Team Rocket,48/82,0.00,bulk
+B02-C166,Tentacruel,Fossil,44/62,0.00,bulk
+B02-C167,Zubat,Fossil,57/62,0.00,bulk
+B02-C168,Arcanine,Base Set 2,33/130,1.25,bulk
+B02-C169,Kingler,Fossil,38/62,0.00,bulk
+B02-C170,Gastly,Base,50/102,0.66,bulk
+B02-C171,Zubat,Fossil,57/62,0.00,bulk
+B02-C172,Diglett,Base,47/102,0.74,bulk
+B02-C173,Krabby,Fossil,51/62,0.00,bulk
+B02-C174,Gastly,Base,50/102,0.66,bulk
+B02-C175,Meowth,Team Rocket,62/82,0.00,bulk
+B02-C176,Persian,Jungle,42/64,0.00,bulk
+B02-C177,Slowbro,Fossil,43/62,0.00,bulk
+B02-C178,Starmie,Base,64/102,0.52,bulk
+B02-C179,Tentacool,Fossil,56/62,0.00,bulk
+B02-C180,Slowpoke,Fossil,55/62,1.49,single_or_1st_ed_group
+B02-C181,Voltorb,Team Rocket,69/82,0.00,bulk
+B02-C182,Diglett,Base,47/102,0.74,bulk
+B02-C183,Kabuto,Fossil,50/62,0.00,bulk
+B02-C184,Koga's Pidgey,Gym Challenge,49/132,0.00,bulk
+B02-C185,Dark Wartortle,Team Rocket,46/82,0.00,bulk
+B02-C186,Weepinbell,Base Set 2,64/130,0.76,bulk
+B02-C187,Rhydon,Jungle,45/64,0.00,bulk
+B02-C188,Rhydon,Jungle,45/64,0.00,bulk
+B02-C189,Dark Muk,Team Rocket,41/82,0.00,bulk
+B02-C190,Grimer,Fossil,48/62,0.00,bulk
+B02-C191,Bellsprout,Jungle,49/64,0.00,bulk
+B02-C192,Voltorb,Team Rocket,69/82,0.00,bulk
+B02-C193,Ekans,Team Rocket,56/82,0.00,bulk
+B02-C194,Rhydon,Jungle,45/64,0.00,bulk
+B02-C195,Omanyte,Fossil,52/62,0.00,bulk
+B02-C196,Seel,Base,41/102,0.84,bulk
+B02-C197,Dark Machoke,Team Rocket,40/82,0.00,bulk
+B02-C198,Kingler,Fossil,38/62,0.00,bulk
+B02-C199,Primeape,Jungle,43/64,0.00,bulk
+B02-C200,Poliwag,Base,59/102,0.45,bulk
+B02-C201,Exeggcute,Jungle,52/64,0.00,bulk
+B02-C202,Rattata,Base,61/102,0.00,bulk
+B02-C203,Pidgey,Base Set 2,86/130,0.54,bulk
+B02-C204,Zubat,Fossil,57/62,0.00,bulk
+B02-C205,Pikachu,Jungle,60/64,0.00,bulk
+B02-C206,Zubat,Fossil,57/62,0.00,bulk
+B02-C207,Pikachu,Base,58/102,7.27,single
+B02-C208,Horsea,Fossil,49/62,0.00,bulk
+B02-C209,Arbok,Fossil,31/62,0.00,bulk
+B02-C210,Graveler,Fossil,37/62,0.00,bulk
+B02-C211,Bellsprout,Jungle,49/64,0.00,bulk
+B02-C212,Kingler,Fossil,38/62,0.00,bulk
+B02-C213,Omanyte,Fossil,52/62,0.00,bulk
+B02-C214,Goldeen,Jungle,53/64,0.00,bulk
+B02-C215,Kabuto,Fossil,50/62,0.00,bulk
+B02-C216,Pidgey,Base,57/102,0.86,bulk
+B02-C217,Dratini,Team Rocket,53/82,0.00,bulk
+B02-C218,Exeggutor,Jungle,35/64,0.00,bulk
+B02-C219,Exeggcute,Jungle,52/64,0.00,bulk
+B02-C220,Rattata,Team Rocket,66/82,0.00,bulk
+B02-C221,Spearow,Jungle,62/64,0.00,bulk
+B02-C222,Nidoran ♀,Jungle,57/64,0.00,bulk
+B02-C223,Golduck,Fossil,35/62,0.00,bulk
+B02-C224,Scyther,Neo Discovery,46/75,1.49,single_or_1st_ed_group
+B02-C225,Omastar,Fossil,40/62,1.49,single_or_1st_ed_group
