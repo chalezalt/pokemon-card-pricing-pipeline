@@ -14,3 +14,7 @@ pricing/apify_raw/
 archive/review_pdfs/
 
 archive/
+
+pricing/pricing_results.csv
+pricing/pricing_results_cleaned.csv
+pricing/pricing_worklist.csv
